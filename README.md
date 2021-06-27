@@ -8,6 +8,5 @@
 * They can create posts in these groups and can join/leave different groups.
 
 
-## Work in Progress
-
-![60%](https://progress-bar.dev/50)
+## Work in Progress...
+![60%](https://progress-bar.dev/60)
